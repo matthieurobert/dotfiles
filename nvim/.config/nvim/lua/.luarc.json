@@ -1,0 +1,16 @@
+{
+    "workspace.library": [
+        "/home/matth/.config/nvim",
+        "/home/matth/.local/share/nvim/lazy/lazy.nvim",
+        "/home/matth/.local/share/nvim/lazy/cmp-nvim-lsp",
+        "/home/matth/.local/share/nvim/lazy/rust-tools.nvim",
+        "/home/matth/.local/share/nvim/lazy/mason-lspconfig.nvim",
+        "/home/matth/.local/share/nvim/lazy/mason.nvim",
+        "/home/matth/.local/share/nvim/lazy/nvim-lspconfig",
+        "/home/matth/nvim-linux64/share/nvim/runtime",
+        "/home/matth/nvim-linux64/lib/nvim",
+        "/home/matth/.local/state/nvim/lazy/readme",
+        "/home/matth/.local/share/nvim/lazy/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library"
+    ]
+}
