@@ -1,0 +1,6 @@
+neovim 0.9.5
+nodejs 21.6.2
+terraform 1.7.4
+github-cli 2.45.0
+fzf 0.47.0
+lazygit 0.40.2
